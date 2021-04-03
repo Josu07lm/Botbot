@@ -8,11 +8,8 @@
         "Vinzapi": "YOURAPIKEY",
         "Itsmeikyapi": "YOURAPIKEY",
 	"limit": "20",
-  "memberlimit": "2",
+  "memberlimit": "3",
   "cr": "Chris bot",
   "hargalimit": "500",
   "NamaBot": "Chris bot"
-  "Ovo" : "123456",
-  "Pulsa": "123456",
-  "Dana": "123456"
 }
